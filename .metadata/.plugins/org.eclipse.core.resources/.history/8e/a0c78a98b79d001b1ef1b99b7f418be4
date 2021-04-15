@@ -1,0 +1,5 @@
+package com.j.notebook.config;
+
+public class DispatcherServletInitializer {
+
+}

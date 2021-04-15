@@ -1,0 +1,5 @@
+package com.j.notebook.controller;
+
+public class HomeController {
+
+}
